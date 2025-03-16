@@ -14,7 +14,7 @@ cards.forEach(div => {
 // shadow
 cards.forEach(div => {
     div.addEventListener("click", () => {
-        div.style.boxShadow = "7px 7px pink"; 
+        div.style.boxShadow = "8px 8px pink"; 
     });
 });
 // remove card
