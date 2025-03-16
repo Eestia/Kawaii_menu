@@ -21,3 +21,10 @@ cards.forEach(div => {
         div.remove()
     });
 });
+let button = document.querySelector("#newsletter");
+
+button.addEventListener("click", () => {
+    let email = document.querySelector("#inputEmail").value; {
+        alert("L'adresse : " + email + " est inscrite à la newsletter.");
+    }
+});
