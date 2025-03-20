@@ -41,20 +41,20 @@ button.addEventListener("click", () => {
 let button2 = document.querySelector("#b1");
 
 button2.addEventListener("click", () => {
-    window.location.href = "../pages/1.html";
+    window.location.href = "https://eestia.github.io/Kawaii_menu/pages/1.html";
 });
 
 // 2eme lien
 let button3 = document.querySelector("#b2");
 
 button3.addEventListener("click", () => {
-    window.location.href = "../pages/2.html";
+    window.location.href = "https://eestia.github.io/Kawaii_menu/pages/2.html";
 });
 
 // 3eme lien
 let button4 = document.querySelector("#b3");
 
 button4.addEventListener("click", () => {
-    window.location.href = "../pages/3.html";
+    window.location.href = "https://eestia.github.io/Kawaii_menu/pages/3.html";
 });
 
