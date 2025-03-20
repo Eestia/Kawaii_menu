@@ -12,3 +12,7 @@ h1{
 .gauche {
    height: 100px;
 }
+section{
+    flex-wrap: wrap;
+    
+}
